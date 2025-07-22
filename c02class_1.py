@@ -1,5 +1,5 @@
 x = int(input("entert your km :"))
-
+x = 0
 
 result = 0
 if (x >=5 and x <=50):
