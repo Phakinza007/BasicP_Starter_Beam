@@ -1,0 +1,32 @@
+# num = int(input("input num"))
+# # sum = 0
+# # for i in range (num):
+# #     print(num)
+# #     sam = sam + 5
+# #     print(f"{i}", sum)
+
+# i = 0
+# while i <= 5 :
+#     print(f"ครั้งที่ {i}")
+# i = i + 5
+
+mon = 100
+sw = 10
+bow = 20
+sprae = 30
+
+x = int(input("tatakai"))
+wp = str(input("yak dai awot nai kub"))
+num = int(input("tee ki kark dee kub"))
+if x == 1 :
+    i = 1
+    sum = 0
+
+    for i in range(num) :
+     hpmon = (mon - wp*num)
+    print("เลือด", hpmon)
+print(hpmon)
+i = i*num
+
+if x == 2 :
+    print("bye")

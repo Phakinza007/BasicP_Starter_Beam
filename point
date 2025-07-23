@@ -1,0 +1,16 @@
+x = int(input("entert your kanan :"))
+if x>50:
+    print ("pass")
+    if x >= 80 :
+         print("A")
+    elif 70 <= x < 80 :
+         print("B")     
+    elif 60 <= x < 70 :
+        print("C")     
+    else :
+         print("D")    
+else :
+     print("failed")
+
+
+

@@ -25,3 +25,5 @@ bath = result + result * 0.07
 print("vat = ",vat)
 print("km =",x)
 print("bath =",bath)
+
+
